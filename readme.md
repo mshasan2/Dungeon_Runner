@@ -4,6 +4,7 @@
 
 Dungeons is a Java based game with a Graphical User Interface. the world of Dungeon Game consists of a network of tunnels and caves that are interconnected so that the player can explore the entire world by travelling from cave through the tunnels that connect them. The game also contains Monsters called Otyughs, these Otyughs are ferocious creatures which will attack the player and kill the player, the player can slay the Otyugh before entering a cave inhabited by them by shooting Arrows. The player can collect treasures and arrows while exploring and having fun inside the dungeon.
 Dungeon Game also supports a text-based interactive version, which has all the features explained above but in a text based format.
+**(The repository containing the actual game is private, to request access please contact the owner of this repository)**
 
 ## List of Features
 
